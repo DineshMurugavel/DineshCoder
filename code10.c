@@ -9,5 +9,5 @@ int main()
         n /= 10;
         ++count;
     }
-    printf("Number of digits: %d", count);
+    printf("%d", count);
 }
