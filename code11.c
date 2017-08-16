@@ -13,6 +13,6 @@ int main()
         result *= base;
         --exponent;
     }
-    printf("Answer = %lld", result);
+    printf("%lld", result);
     return 0;
 }
